@@ -1,8 +1,8 @@
 {
-  "name": "node-repl",
+  "name": "node-repl-online",
   "main": "./lib/node-repl",
   "version": "0.0.0",
-  "description": "JavaScript Read-Eval-Print-Loop (REPL) for Atom",
+  "description": "Very simple NodeJS REPL for ATOM",
   "keywords": [
     "repl",
     "javascript"
